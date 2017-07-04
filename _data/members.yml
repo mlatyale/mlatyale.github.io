@@ -1,0 +1,43 @@
+faculty:
+    - name : Ronald Coifman
+      url: http://cpsc.yale.edu/people/ronald-coifman
+      photo: /images/dummy.png
+      email: coifman-ronald@yale.edu 
+      title : Professor
+
+    - name : Amin Karbasi
+      url: http://iid.yale.edu/people/amin-karbasi
+      email: amin.karbasi@yale.edu  
+      title : Assistant Professor
+      photo: /images/dummy.png
+
+    - name : Smita Krishnaswamy
+      url: https://medicine.yale.edu/lab/krishnaswamy/smita_krishnaswamy.profile
+      photo: /images/dummy.png
+      email: smita.krishnaswamy@yale.edu
+      title : Assistant Professor
+
+    - name : Sahand Negahban
+      url: http://www.stat.yale.edu/~snn7/
+      photo: /images/dummy.png
+      email: sahand.negahban@yale.edu 
+      title : Assistant Professor
+
+    - name : Daniel Spielman
+      url: http://cs-www.cs.yale.edu/homes/spielman/
+      photo: /images/dummy.png
+      email: spielman@cs.yale.edu  
+      title : Professor
+
+    - name : Sekhar Tatikonda
+      url: https://www.eng.yale.edu/sekhar/
+      email: sekhar.tatikonda@yale.edu
+      title : Associate Professor
+      photo: /images/dummy.png
+
+    - name : Dragomir Radev
+      github: Yale-LILY
+      url: http://www.cs.yale.edu/~radev/
+      photo: http://www.cs.yale.edu/homes/radev/131007_facaward_dragomir.jpg
+      email: dragomir.radev@yale.edu
+      title : Professor
