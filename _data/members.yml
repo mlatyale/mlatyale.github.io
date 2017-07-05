@@ -1,6 +1,12 @@
 faculty:
+    - name : Dana Angluin
+      url: http://cpsc.yale.edu/people/dana-angluin
+      photo: /images/dummy.jpg
+      email: dana.angluin@yale.edu
+      title : Professor
+
     - name : Ronald Coifman
-      url: http://cpsc.yale.edu/people/ronald-coifman
+      url: http://cpsc.yale.edu/people/ronald-coifman 
       photo: /images/dummy.jpg
       email: coifman-ronald@yale.edu 
       title : Professor
