@@ -1,13 +1,13 @@
 faculty:
     - name : Dana Angluin
       url: http://cpsc.yale.edu/people/dana-angluin
-      photo: /images/dummy.jpg
+      photo: /images/dana_angluin.jpg
       email: dana.angluin@yale.edu
       title : Professor
 
     - name : Ronald Coifman
       url: http://cpsc.yale.edu/people/ronald-coifman 
-      photo: /images/dummy.jpg
+      photo: /images/ronald_coifman.jpg
       email: coifman-ronald@yale.edu 
       title : Professor
 
@@ -15,29 +15,29 @@ faculty:
       url: http://iid.yale.edu/people/amin-karbasi
       email: amin.karbasi@yale.edu  
       title : Assistant Professor
-      photo: /images/dummy.jpg
+      photo: /images/amin_karbasi.jpg
 
     - name : Smita Krishnaswamy
       url: https://medicine.yale.edu/lab/krishnaswamy/smita_krishnaswamy.profile
-      photo: /images/dummy.jpg
+      photo: /images/smita_krishnaswamy.jpg
       email: smita.krishnaswamy@yale.edu
       title : Assistant Professor
 
     - name : Sahand Negahban
       url: http://www.stat.yale.edu/~snn7/
-      photo: /images/dummy.jpg
+      photo: /images/sahand_negahban.jpg
       email: sahand.negahban@yale.edu 
       title : Assistant Professor
 
     - name : Dragomir Radev
       url: http://www.cs.yale.edu/~radev/
-      photo: /images/drago_profile.jpg
+      photo: /images/dragomir_radev.jpg
       email: dragomir.radev@yale.edu
       title : Professor
 
     - name : Daniel Spielman
       url: http://cs-www.cs.yale.edu/homes/spielman/
-      photo: /images/dummy.jpg
+      photo: /images/daniel_spielman.jpg
       email: spielman@cs.yale.edu  
       title : Professor
 
@@ -45,4 +45,4 @@ faculty:
       url: https://www.eng.yale.edu/sekhar/
       email: sekhar.tatikonda@yale.edu
       title : Associate Professor
-      photo: /images/dummy.jpg
+      photo: /images/sekhar_tatikonda.jpg
