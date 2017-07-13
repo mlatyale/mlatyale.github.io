@@ -46,3 +46,9 @@ faculty:
       email: sekhar.tatikonda@yale.edu
       title : Associate Professor
       photo: /images/sekhar_tatikonda.bmp
+
+    - name : Steven Zucker
+      url: http://seas.yale.edu/faculty-research/faculty-directory/steven-zucker
+      email: steven.zucker@yale.edu
+      title : Professor
+      photo: /images/steven_zucker.jpg

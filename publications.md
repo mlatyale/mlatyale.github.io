@@ -8,27 +8,27 @@ permalink: /publications/
     <h2 class="post-title">Publications</h2>
   </header> 
 
-<table>
-{% for paper in site.data.papers.papers %}
+{% for link in site.data.publications %}
 
-
-  <tr><td style="padding:10px">
-{% if paper.image %}<img width="250px" src="{{paper.image}}"> {% endif %}
-</td><td style="padding:10px">
-<a class="paper" href="{{paper.pdf}}">
-{{paper.title}}
-</a><br>
-{{paper.authors}}<br>
-{{paper.conference}} <br>
-
-{% if paper.pdf %}<a class="btn btn-labeled btn-primary" href="{{paper.pdf}}">PDF</a>{% endif %}
-{% if paper.bibtex %}<a class="btn btn-labeled btn-primary" href="{{paper.bibtex}}">BibTex</a>{% endif %}
-{% if paper.code %} <a class="icon slides label label-success label-warning" href="{{paper.code}}">code</a>{% endif %}
-<br>
-
-</td></tr>
-
+<table class="table table-striped table-hover">
+{% for link in link.links %}
+    <tr>
+        <td> 
+           <a href="{{link.url}}">{{link.name}}</a> 
+        </td>
+        <td> {{ link.description }}  </td>
+    </tr>
 {% endfor %}
 </table>
+{% endfor %}
+
+<style>
+#pubTable_filter{
+    display:none;
+}
+</style>
+
+<table id="pubTable" class="table table-hover"></table>
+
 
 
