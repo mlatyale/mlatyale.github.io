@@ -23,6 +23,11 @@ faculty:
       email: smita.krishnaswamy@yale.edu
       title : Assistant Professor
 
+    - name : John Lafferty
+      url: http://galton.uchicago.edu/~lafferty/
+      title : Professor
+      photo: /images/john_lafferty.jpg
+
     - name : Sahand Negahban
       url: http://www.stat.yale.edu/~snn7/
       photo: /images/sahand_negahban.jpg
