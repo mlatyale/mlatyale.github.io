@@ -17,6 +17,12 @@ faculty:
       title : Assistant Professor
       photo: /images/amin_karbasi.jpg
 
+    - name : Yuval Kluger
+      url: https://medicine.yale.edu/lab/kluger/yuval_kluger.profile?source=news
+      email: yuval.kluger@yale.edu  
+      title : Associate Professor
+      photo: /images/yuval_kluger.jpg
+
     - name : Smita Krishnaswamy
       url: https://medicine.yale.edu/lab/krishnaswamy/smita_krishnaswamy.profile
       photo: /images/smita_krishnaswamy.jpg

@@ -1,0 +1,378 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- <title></title> -->
+  <meta name="description" content="Website for Machine Learning at Yale University
+">
+<link rel="icon" type="image/png" href="/yale.png" />
+  <link rel="stylesheet" href="/css/main.css">
+  <link rel="canonical" href="http://localhost:4000/members/">
+  <!--- <link rel="alternate" type="application/rss+xml" title="" href="http://localhost:4000/feed.xml"> ---> 
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
+
+<script src="/bib-list.js"></script>
+
+<link rel="stylesheet" href="/bib-publication-list.css" type="text/css" />
+
+
+<!-- Optional theme -->
+<!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css" integrity="sha384-fLW2N01lMqjakBkx3l/M9EahuwpSfeNvV63J5ezn3uZzapT0u7EYsXMjQV+0En5r" crossorigin="anonymous"> -->
+
+<!-- Latest compiled and minified JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+</head>
+
+
+  <body>
+
+    
+<!--  <div class="wrapper">
+
+<span><a class="site-title" href="https://www.yale.edu/"><img src="/yale_header.png"></a></span> 
+
+    <nav class="site-nav">
+      <span class="menu-icon" onclick="void(0)">
+        
+        <svg viewBox="0 0 18 15">
+          <path fill="#424242" d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.031C17.335,0,18,0.665,18,1.484L18,1.484z"/>
+          <path fill="#424242" d="M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0c0-0.82,0.665-1.484,1.484-1.484 h15.031C17.335,6.031,18,6.696,18,7.516L18,7.516z"/>
+          <path fill="#424242" d="M18,13.516C18,14.335,17.335,15,16.516,15H1.484C0.665,15,0,14.335,0,13.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.031C17.335,12.031,18,12.696,18,13.516L18,13.516z"/>
+        </svg>
+        </span>
+      </div>
+
+      <div class="trigger" onclick="void(0)">
+        
+        
+          
+        
+          
+        
+          
+          <a class="page-link" href="/" style="color: white;">About</a>
+          
+        
+          
+          <a class="page-link" href="/links/" style="color: white;">Links</a>
+          
+        
+          
+          <a class="page-link" href="/members/" style="color: white;">Members</a>
+          
+        
+          
+          <a class="page-link" href="/news/" style="color: white;">News</a>
+          
+        
+          
+          <a class="page-link" href="/publications/" style="color: white;">Publications</a>
+          
+        
+          
+          <a class="page-link" href="/teaching/" style="color: white;">Teaching</a>
+          
+        
+      </div>
+    </nav>
+
+  </div>
+
+</header> -->
+
+
+<header class="site-header" style="background-color: #0c4c92;">
+
+  <div class="wrapper">
+
+
+    <span><a class="site-title" href="https://www.yale.edu/"><img src="/yale_header.png" height="40"></a></span> 
+<!--    <span><a class="site-title" href="/"><img src="/lily-logo.png" height="40"></a></span> -->
+
+
+    <nav class="site-nav">
+      <a href="#" class="menu-icon">
+        <svg viewBox="0 0 18 15">
+          <path fill="#424242" d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.031C17.335,0,18,0.665,18,1.484L18,1.484z"/>
+          <path fill="#424242" d="M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0c0-0.82,0.665-1.484,1.484-1.484 h15.031C17.335,6.031,18,6.696,18,7.516L18,7.516z"/>
+          <path fill="#424242" d="M18,13.516C18,14.335,17.335,15,16.516,15H1.484C0.665,15,0,14.335,0,13.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.031C17.335,12.031,18,12.696,18,13.516L18,13.516z"/>
+        </svg>
+      </a>
+
+      <div class="trigger">
+        
+        
+          
+        
+          
+        
+          
+          <a class="page-link" href="/" style="color: white;">About</a>
+          
+        
+          
+          <a class="page-link" href="/links/" style="color: white;">Links</a>
+          
+        
+          
+          <a class="page-link" href="/members/" style="color: white;">Members</a>
+          
+        
+          
+          <a class="page-link" href="/news/" style="color: white;">News</a>
+          
+        
+          
+          <a class="page-link" href="/publications/" style="color: white;">Publications</a>
+          
+        
+          
+          <a class="page-link" href="/teaching/" style="color: white;">Teaching</a>
+          
+        
+      </div>
+    </nav>
+
+  </div>
+
+</header>
+
+
+    <div class="page-content">
+      <div class="wrapper">
+        <article class="post">
+
+  <!-- <header class="post-header">
+    <h2 class="post-title">Members</h1>
+  </header> -->
+
+  <div class="post-content">
+      <header class="post-header">
+    <h2 class="post-title">Members</h2>
+  </header> 
+
+<br>
+<h3> Faculty </h3>
+<hr>
+<div class = "people-list">
+
+    <div class ="imageContainer">
+            <img src="/images/dana_angluin.jpg " width="120" height="120">
+            <p>
+                    
+                        Dana Angluin <br>Professor
+                        <br>
+                    
+                    
+                          <a href="http://cpsc.yale.edu/people/dana-angluin"> Website </a> <br>
+                    
+                    <!-- <a href = "mailto:dana.angluin@yale.edu"> dana.angluin@yale.edu</a><br> -->
+                    
+                </p>
+    </div>
+
+    <div class ="imageContainer">
+            <img src="/images/ronald_coifman.jpg " width="120" height="120">
+            <p>
+                    
+                        Ronald Coifman <br>Professor
+                        <br>
+                    
+                    
+                          <a href="http://cpsc.yale.edu/people/ronald-coifman"> Website </a> <br>
+                    
+                    <!-- <a href = "mailto:coifman-ronald@yale.edu"> coifman-ronald@yale.edu</a><br> -->
+                    
+                </p>
+    </div>
+
+    <div class ="imageContainer">
+            <img src="/images/amin_karbasi.jpg " width="120" height="120">
+            <p>
+                    
+                        Amin Karbasi <br>Assistant Professor
+                        <br>
+                    
+                    
+                          <a href="http://iid.yale.edu/people/amin-karbasi"> Website </a> <br>
+                    
+                    <!-- <a href = "mailto:amin.karbasi@yale.edu"> amin.karbasi@yale.edu</a><br> -->
+                    
+                </p>
+    </div>
+
+    <div class ="imageContainer">
+            <img src="/images/yuval_kluger.jpg " width="120" height="120">
+            <p>
+                    
+                        Yuval Kluger <br>Associate Professor
+                        <br>
+                    
+                    
+                          <a href="https://medicine.yale.edu/lab/kluger/yuval_kluger.profile?source=news"> Website </a> <br>
+                    
+                    <!-- <a href = "mailto:yuval.kluger@yale.edu"> yuval.kluger@yale.edu</a><br> -->
+                    
+                </p>
+    </div>
+
+    <div class ="imageContainer">
+            <img src="/images/smita_krishnaswamy.jpg " width="120" height="120">
+            <p>
+                    
+                        Smita Krishnaswamy <br>Assistant Professor
+                        <br>
+                    
+                    
+                          <a href="https://medicine.yale.edu/lab/krishnaswamy/smita_krishnaswamy.profile"> Website </a> <br>
+                    
+                    <!-- <a href = "mailto:smita.krishnaswamy@yale.edu"> smita.krishnaswamy@yale.edu</a><br> -->
+                    
+                </p>
+    </div>
+
+    <div class ="imageContainer">
+            <img src="/images/john_lafferty.jpg " width="120" height="120">
+            <p>
+                    
+                        John Lafferty <br>Professor
+                        <br>
+                    
+                    
+                          <a href="http://galton.uchicago.edu/~lafferty/"> Website </a> <br>
+                    
+                    <!-- <a href = "mailto:"> </a><br> -->
+                    
+                </p>
+    </div>
+
+    <div class ="imageContainer">
+            <img src="/images/sahand_negahban.jpg " width="120" height="120">
+            <p>
+                    
+                        Sahand Negahban <br>Assistant Professor
+                        <br>
+                    
+                    
+                          <a href="http://www.stat.yale.edu/~snn7/"> Website </a> <br>
+                    
+                    <!-- <a href = "mailto:sahand.negahban@yale.edu"> sahand.negahban@yale.edu</a><br> -->
+                    
+                </p>
+    </div>
+
+    <div class ="imageContainer">
+            <img src="/images/dragomir_radev.jpg " width="120" height="120">
+            <p>
+                    
+                        Dragomir Radev <br>Professor
+                        <br>
+                    
+                    
+                          <a href="http://www.cs.yale.edu/~radev/"> Website </a> <br>
+                    
+                    <!-- <a href = "mailto:dragomir.radev@yale.edu"> dragomir.radev@yale.edu</a><br> -->
+                    
+                </p>
+    </div>
+
+    <div class ="imageContainer">
+            <img src="/images/daniel_spielman.jpg " width="120" height="120">
+            <p>
+                    
+                        Daniel Spielman <br>Professor
+                        <br>
+                    
+                    
+                          <a href="http://cs-www.cs.yale.edu/homes/spielman/"> Website </a> <br>
+                    
+                    <!-- <a href = "mailto:spielman@cs.yale.edu"> spielman@cs.yale.edu</a><br> -->
+                    
+                </p>
+    </div>
+
+    <div class ="imageContainer">
+            <img src="/images/sekhar_tatikonda.bmp " width="120" height="120">
+            <p>
+                    
+                        Sekhar Tatikonda <br>Associate Professor
+                        <br>
+                    
+                    
+                          <a href="https://www.eng.yale.edu/sekhar/"> Website </a> <br>
+                    
+                    <!-- <a href = "mailto:sekhar.tatikonda@yale.edu"> sekhar.tatikonda@yale.edu</a><br> -->
+                    
+                </p>
+    </div>
+
+    <div class ="imageContainer">
+            <img src="/images/steven_zucker.jpg " width="120" height="120">
+            <p>
+                    
+                        Steven Zucker <br>Professor
+                        <br>
+                    
+                    
+                          <a href="http://seas.yale.edu/faculty-research/faculty-directory/steven-zucker"> Website </a> <br>
+                    
+                    <!-- <a href = "mailto:steven.zucker@yale.edu"> steven.zucker@yale.edu</a><br> -->
+                    
+                </p>
+    </div>
+
+</div>
+<div style="clear:left;"></div> 
+
+
+  </div>
+
+</article>
+
+      </div>
+    </div>
+
+    <footer class="site-footer">
+
+  <div class="wrapper">
+
+    <h2 class="footer-heading"></h2>
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+          <li></li>
+          <li><a href="mailto:"></a></li>
+        </ul>
+      </div>
+
+      <div class="footer-col footer-col-2">
+        <ul class="social-media-list">
+          
+
+          
+        </ul>
+      </div>
+
+      <div class="footer-col footer-col-3">
+        <p>Website for Machine Learning at Yale University
+</p>
+      </div>
+    </div>
+
+  </div>
+
+</footer>
+
+
+  </body>
+
+</html>
