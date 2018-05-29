@@ -24,15 +24,16 @@ faculty:
       photo: /images/yuval_kluger.jpg
 
     - name : Smita Krishnaswamy
-      url: https://medicine.yale.edu/lab/krishnaswamy/smita_krishnaswamy.profile
+      url : https://medicine.yale.edu/genetics/people/smita_krishnaswamy.profile
       photo: /images/smita_krishnaswamy.jpg
       email: smita.krishnaswamy@yale.edu
       title : Assistant Professor
 
     - name : John Lafferty
-      url: http://galton.uchicago.edu/~lafferty/
+      url : https://statistics.yale.edu/people/john-lafferty 
       title : Professor
       photo: /images/john_lafferty.jpg
+      email: john.lafferty@yale.edu
 
     - name : Sahand Negahban
       url: http://www.stat.yale.edu/~snn7/

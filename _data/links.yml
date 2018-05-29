@@ -1,8 +1,11 @@
 - group: Affiliated Groups
   links:
+    - name: "Kluger Lab"
+      url: "https://medicine.yale.edu/lab/kluger/"
+      description: "Kluger Pathology Lab"
     - name: "Krishnaswamy Lab"
       description: Computational Biology Group at Yale 
-      url: "https://medicine.yale.edu/lab/krishnaswamy/"
+      url: "https://www.krishnaswamylab.org/"
     - name: "I.I.D. Group"
       description: Inference, Information and Decision (I.I.D.) Systems Group
       url: "http://iid.yale.edu/"
