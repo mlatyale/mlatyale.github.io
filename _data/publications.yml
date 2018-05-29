@@ -1,5 +1,8 @@
 - group: ML Groups
   links:
+    - name: "Kluger Lab"
+      description: Kluger Pathology Lab
+      url: "https://medicine.yale.edu/lab/kluger/publications/"
     - name: "Krishnaswamy Lab"
       description: Computational Biology Group at Yale 
       url: "https://medicine.yale.edu/bbs/computational/people/smita_krishnaswamy-2.profile"
