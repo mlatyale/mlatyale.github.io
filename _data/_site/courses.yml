@@ -1,0 +1,141 @@
+- term: Spring 2018
+  courses:
+    - instructor: Dana Angluin
+      instructor_website: https://cpsc.yale.edu/people/dana-angluin
+      location: "AKW 000"
+      title: "CPSC 568 Computational Complexity"
+      time: "TTH 2.30-3.45"
+    - instructor: Guy Wolf and Smita Krishnaswamy
+      instructor_website: https://medicine.yale.edu/genetics/people/smita_krishnaswamy.profile
+      location: "WTS A60"
+      title: "CPSC 745 Advanced Topics in Machine Learning and Data Mining"
+      time: "W 2.30-5.15"
+    - instructor: John Lafferty
+      instructor_website: https://statistics.yale.edu/people/john-lafferty
+      location: "ML 211"
+      title: "S&DS 668 Nonparametric Estimation"
+      time: "MW 11.35-12.50"
+    - instructor: Sahand Negahban
+      instructor_website: http://www.stat.yale.edu/~snn7/
+      location: "ML 211"
+      title: "STAT 551 Stochastic Processes"
+      time: "MW 1.00-2.15"
+    - instructor: Sahand Negahban
+      instructor_website: http://www.stat.yale.edu/~snn7/
+      location: "HLH24 107"
+      title: "STAT 669 Statistical Learning Theory"
+      time: "MW 2.30-3.45"
+    - instructor: Dragomir Radev
+      instructor_website: http://www.cs.yale.edu/homes/radev/
+      location: "LORIA 260"
+      title: "CPSC 577 Natural Language Processing"
+      time: "TT 1.00-2.15"
+    - instructor: Daniel Spielman
+      instructor_website: http://cs-www.cs.yale.edu/homes/spielman/
+      location: "WTS A53"
+      title: "CPSC 366 Intensive Algorithms"
+      time: "TT 2.30-3.45"
+    - instructor: Steven Zucker
+      instructor_website: https://seas.yale.edu/faculty-research/faculty-directory/steven-zucker
+      location: "AKW 400"
+      title: "CPSC 576 Advanced Computational Vision"
+      time: "TTH 2.30-3.45"
+
+- term: Fall 2017
+  courses:
+    - instructor: Dana Angluin
+      instructor_website: https://cpsc.yale.edu/people/dana-angluin
+      location: "DL 220"
+      title: "CPSC 323 Systems Programming and Computer Organization"
+      time: "MW 1.00-2.15"
+    - instructor: Ronald Coifman
+      instructor_website: http://cpsc.yale.edu/people/ronald-coifman
+      location: "LOM 200"
+      title: "AMTH 247 Partial Differential Equations"
+      time: "TTh 2.30-3.45"
+    - instructor: Ronald Coifman
+      instructor_website: http://cpsc.yale.edu/people/ronald-coifman
+      location: "LOM 201"
+      title: "AMTH 260 Basic Analysis in Function Spaces"
+      time: "TTh 2.30-3.45"
+    - instructor: Amin Karbasi
+      instructor_website: https://seas.yale.edu/faculty-research/faculty-directory/amin-karbasi
+      location: "HLH17"
+      title: "ENAS Theoretical Challenges in Network Science"
+      time: "TTh 1.00-2.15"
+    - instructor: Smita Krishnaswamy
+      instructor_website: https://medicine.yale.edu/genetics/people/smita_krishnaswamy.profile
+      location: "AKW 200"
+      title: "CPSC 553 Machine Learning for Biology"
+      time: "TTh 9.00-10.15"
+    - instructor: John Lafferty
+      instructor_website: https://statistics.yale.edu/people/john-lafferty
+      location: "WLH 201"
+      title: "S&DS 565 Applied Data Mining & Machine Learning"
+      time: "TTh 9.00-10.15"
+    - instructor: Dragomir Radev
+      instructor_website: http://www.cs.yale.edu/homes/radev/
+      location: "DAVIES AUD"
+      title: "CPSC 570 Artificial Intelligence"
+      time: "TT 4.00-5.15"
+    - instructor: Sekhar Tatikonda
+      instructor_website: https://www.eng.yale.edu/sekhar/
+      location: "WLH 119"
+      title: "S&DS 630 Optimization Techniques"
+      time: "TT 1.00-2.15"
+    - instructor: Steven Zucker
+      instructor_website: https://seas.yale.edu/faculty-research/faculty-directory/steven-zucker
+      location: "ML 211"
+      title: "CPSC 575 Computational Vision and Biological Perception"
+      time: "MW 2.30-3.45"
+
+- term: Spring 2017
+  courses:
+    - instructor: Dana Angluin
+      instructor_website: https://cpsc.yale.edu/people/dana-angluin
+      location: "DL 220"
+      title: "CPSC 201 Intro to Computer Science"
+      time: "MWF 11.35-12.25"
+    - instructor: Ronald Coifman
+      instructor_website: http://cpsc.yale.edu/people/ronald-coifman
+      location: "LOM 200"
+      title: "AMTH 247 Partial Differential Equations"
+      time: "TTh 2.30-3.45"
+    - instructor: Ronald Coifman
+      instructor_website: http://cpsc.yale.edu/people/ronald-coifman
+      location: "DL 431"
+      title: "MATH 708 Introduction to Harmonic Analysis"
+      time: "TTh 11.35-12.50"
+    - instructor: Guy Wolf, Alexander Cloninger, Smita Krishnaswamy
+      instructor_website: https://medicine.yale.edu/genetics/people/smita_krishnaswamy.profile
+      location: "AKW 307"
+      title: "CPSC 745 Advanced Topics in Machine Learning and Data Mining"
+      time: "W 2.30-5.15"
+    - instructor: Sahand Negahban
+      instructor_website: http://www.stat.yale.edu/~snn7/
+      location: "WLH 208"
+      title: "STAT 551 Stochastic Processes"
+      time: "MW 1.00-2.15"
+    - instructor: Sahand Negahban
+      instructor_website: http://www.stat.yale.edu/~snn7/
+      location: "HLH24 107"
+      title: "STAT 669 Statistical Learning Theory"
+      time: "MW 2.30-3.45"
+    - instructor: Dragomir Radev
+      instructor_website: http://www.cs.yale.edu/homes/radev/
+      location: "LORIA 250"
+      title: "CPSC 577 Natural Language Processing"
+      time: "TT 1.00-2.15"
+    - instructor: Daniel Spielman
+      instructor_website: http://cs-www.cs.yale.edu/homes/spielman/
+      location: "DL 220"
+      title: "CPSC 365 Design & Analysis of Algorithms"
+      time: "TT 2.30-3.45"
+    - instructor: Sekhar Tatikonda
+      instructor_website: https://www.eng.yale.edu/sekhar/
+      location: "WLH 117"
+      title: "AMTH 437 Optimization Techniques"
+      time: "TT 1.00-2.15"
+
+
+

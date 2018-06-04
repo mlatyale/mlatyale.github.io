@@ -12,7 +12,7 @@
     - name: "LILY"
       description: NLP Group at Yale
       url: "https://yale-lily.github.io/publications/"
-    - name: "Spielman Group"
+    - name: "Spielman group"
       description: Publications by Dan Spielman's group
       url: "http://cs-www.cs.yale.edu/homes/spielman/Research/List.html"
     - name: "Zucker Lab"
