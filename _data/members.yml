@@ -47,6 +47,13 @@ faculty:
       email: dragomir.radev@yale.edu
       title : Professor
 
+    - name : Brian Scassellati
+      url: http://www.cs.yale.edu/homes/scaz/
+      photo: /images/scaz.gif
+      email: scaz@cs.yale.edu
+      title : Professor
+      
+
     - name : Daniel Spielman
       url: http://cs-www.cs.yale.edu/homes/spielman/
       photo: /images/daniel_spielman.jpg
@@ -58,6 +65,12 @@ faculty:
       email: sekhar.tatikonda@yale.edu
       title : Associate Professor
       photo: /images/sekhar_tatikonda.bmp
+
+    - name : Marynel Vázquez
+      url: http://www.marynel.net/
+      email: marynel.vazquez@yale.edu
+      title : Assistant Professor
+      photo: /images/vazquez.jpg
 
     - name : Steven Zucker
       url: http://seas.yale.edu/faculty-research/faculty-directory/steven-zucker
