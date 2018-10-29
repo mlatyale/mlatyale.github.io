@@ -1,3 +1,40 @@
+- term: Fall 2018
+  courses:
+    - instructor: Dana Angluin
+      instructor_website: https://cpsc.yale.edu/people/dana-angluin
+      location: "DL 220"
+      title: "CPSC 202 Mathematical Tools for Computer Science"
+      time: "TTH 1.00-2.15"
+    - instructor: Smita Krishnaswamy
+      instructor_website: https://www.krishnaswamylab.org/
+      location: "ML 211"
+      title: "CB&B 555 Machine Learning for Biology"
+      time: "TTh 11.35-12.50"
+    - instructor: John Lafferty
+      instructor_website: https://statistics.yale.edu/people/john-lafferty
+      location: "LORIA 250"
+      title: "S&DS 565 Applied Data Mining and Machine Learning"
+      time: "TTH 9.00-10.15"
+    - instructor: Sahand Negahban
+      instructor_website: http://www.stat.yale.edu/~snn7/
+      location: "HLH24 107"
+      title: "S&DS 679 High-Dimensional Statistical Estimation"
+      time: "T 2.30-5.00"
+    - instructor: Dragomir Radev
+      instructor_website: http://www.cs.yale.edu/homes/radev/
+      location: "AKW 200"
+      title: "CPSC 677 Advanced Natural Language Processing"
+      time: "TT 4.00-5.15"
+    - instructor: Daniel Spielman
+      instructor_website: http://cs-www.cs.yale.edu/homes/spielman/
+      location: "WTS A60"
+      title: "CPSC 662 Spectral Graph Theory"
+      time: "MW 2.30-3.45"
+    - instructor: Steven Zucker
+      instructor_website: https://seas.yale.edu/faculty-research/faculty-directory/steven-zucker
+      location: "DL 220"
+      title: "CPSC 575 Computational Vision and Biological Perception"
+      time: "MW 2.30-3.45"
 - term: Spring 2018
   courses:
     - instructor: Dana Angluin

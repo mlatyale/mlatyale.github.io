@@ -1,3 +1,41 @@
+- term: Fall  2018 Talks
+  events: 
+    - date:  "Sep. 12 @12:00pm"
+      presenter: "Constantinos Daskalakis"
+      event_website: https://cpsc.yale.edu/event/yins-distinguished-lecture-constantinos-daskalakis-mit
+      website: http://people.csail.mit.edu/costis/
+      location: "17 Hillhouse Avenue"
+      type: "YINS Distinguished Lecture"
+    - date:  "Sep. 26 @10:30am"
+      presenter: "Daniel Fremont"
+      event_website: https://cpsc.yale.edu/event/cs-talk-daniel-fremont
+      website: https://math.berkeley.edu/~dfremont/
+      location: "AKW 000"
+      type: "CS Talk"
+    - date:  "Oct. 2 @10:30am"
+      presenter: "Lin Zhong"
+      event_website: https://cpsc.yale.edu/event/cs-colloquium-lin-zhong-rice-university
+      website: http://www.ruf.rice.edu/~lzhong/
+      location: "AKW 200"
+      type: "CS Colloquium"
+    - date:  "Oct. 24 @12:00pm"
+      presenter: "Elad Hazan"
+      event_website: https://cpsc.yale.edu/event/yins-distiinguished-lecturer-elad-hazan-princeton-university
+      website: https://www.cs.princeton.edu/~ehazan/
+      location: "17 Hillhouse Ave"
+      type: "YINS Distinguished Lecturer"
+    - date:  "Oct. 24 @4:00pm"
+      presenter: "Ian Horswill"
+      event_website: https://cpsc.yale.edu/event/cs-talk-ian-horswill-northwestern-university
+      website: http://www.cs.northwestern.edu/~ian/
+      location: "AKW 200"
+      type: "YINS Distinguished Lecturer"
+    - date:  "Oct. 30 @10am"
+      presenter: "Shiqiang Wang"
+      event_website: https://cpsc.yale.edu/event/department-electrical-engineering-yins-talk-shiqiang-wang-ibm-tj-watson-research-center
+      website: https://researcher.watson.ibm.com/researcher/view.php?person=us-wangshiq
+      location: "17 Hillhouse Avenue"
+      type: "EE & YINS Talk"
 - term: Spring 2018 Talks
   events: 
     - date:  "Jan. 18 @4:15pm"
