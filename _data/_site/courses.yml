@@ -1,3 +1,51 @@
+- term: Spring 2019
+  courses:
+    - instructor: Smita Krishnaswamy
+      instructor_website: https://www.krishnaswamylab.org/
+      location: "DL 220"
+      title: "CPSC 663 Deep Learning Theory and Applications"
+      time: "TTh 4:00-5:15"
+    - instructor: John Lafferty
+      instructor_website: https://statistics.yale.edu/people/john-lafferty
+      location: "LUCE 101"
+      title: "S&DS 523 YData: An Introduction to Data Science"
+      time: "MWF 10:30-11:20"
+    - instructor: John Lafferty
+      instructor_website: https://statistics.yale.edu/people/john-lafferty
+      location: "LC 208"
+      title: "S&DS 571 YData: Text Data Science: An Introduction"
+      time: "TTH 9:25-11:15"
+    - instructor: Sahand Negahban
+      instructor_website: http://www.stat.yale.edu/~snn7/
+      location: "WLH 119"
+      title: "STAT 551 Stochastic Processes"
+      time: "MW 1.00-2.15"
+    - instructor: Sahand Negahban
+      instructor_website: http://www.stat.yale.edu/~snn7/
+      location: "HLH24 107"
+      title: "STAT 669 Statistical Learning Theory"
+      time: "T 2.30-5:00"
+    - instructor: Dragomir Radev
+      instructor_website: http://www.cs.yale.edu/homes/radev/
+      location: "LORIA 260"
+      title: "CPSC 577 Natural Language Processing"
+      time: "TT 1.00-2.15"
+    - instructor: Brian Scassellati
+      instructor_website: http://www.cs.yale.edu/homes/scaz/
+      location: "DAVIES AUD"
+      title: "CPSC 570 Artificial Intelligence"
+      time: "MWF 10:30-11:20"
+    - instructor: Marynel Vazquez    
+      instructor_website: http://www.marynel.net/
+      location: "HLH17 115"
+      title: "CPSC 529 Introduction to Human-Computer Interaction"
+      time: "MW 2:30-3:45"
+    - instructor: Steven Zucker
+      instructor_website: https://seas.yale.edu/faculty-research/faculty-directory/steven-zucker
+      location: "AKW 000"
+      title: "CPSC 576 Advanced Computational Vision"
+      time: "TTH 2.30-3.45"
+
 - term: Fall 2018
   courses:
     - instructor: Dana Angluin
@@ -25,11 +73,26 @@
       location: "AKW 200"
       title: "CPSC 677 Advanced Natural Language Processing"
       time: "TT 4.00-5.15"
+    - instructor: Brian Scassellati
+      instructor_website: http://www.cs.yale.edu/homes/scaz/
+      location: "AKW 200"
+      title: "CPSC 573 Intelligent Robotics Laboratory"
+      time: "MWF 10:30-11:20"
     - instructor: Daniel Spielman
       instructor_website: http://cs-www.cs.yale.edu/homes/spielman/
       location: "WTS A60"
       title: "CPSC 662 Spectral Graph Theory"
       time: "MW 2.30-3.45"
+    - instructor: Sekhar Tatikonda
+      instructor_website: https://www.eng.yale.edu/sekhar/
+      location: "ML 211"
+      title: "S&DS 600 Advanced Probability"
+      time: "TT 2:30-3:45"
+    - instructor: Marynel Vazquez    
+      instructor_website: http://www.marynel.net/
+      location: "AKW 200"
+      title: "CPSC 659 Building Interactive Machines"
+      time: "MW 1.00-2.15"
     - instructor: Steven Zucker
       instructor_website: https://seas.yale.edu/faculty-research/faculty-directory/steven-zucker
       location: "DL 220"

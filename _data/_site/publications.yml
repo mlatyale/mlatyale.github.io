@@ -12,9 +12,15 @@
     - name: "LILY"
       description: NLP Group at Yale
       url: "https://yale-lily.github.io/publications/"
+    - name: "Social Robotics Lab"
+      description: Publications by the Social Robotics Lab
+      url: "https://scazlab.yale.edu/publications/all-publications"
     - name: "Spielman Group"
       description: Publications by Dan Spielman's group
       url: "http://cs-www.cs.yale.edu/homes/spielman/Research/List.html"
+    - name: "Vazquez Group"
+      description: Publications by Marynel Vazquez's group
+      url: "http://www.marynel.net/publications"
     - name: "Zucker Lab"
       description: Computational Vision Group at Yale
       url: "http://www.cs.yale.edu/homes/vision/zucker/publications.html"

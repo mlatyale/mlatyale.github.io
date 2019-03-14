@@ -12,6 +12,9 @@
     - name: "LILY"
       description: NLP Group at Yale
       url: "https://yale-lily.github.io/"
+    - name: "Social Robotics Lab"
+      description: Social Robotics Lab at Yale
+      url: "https://scazlab.yale.edu/"
     - name: "Zucker Lab"
       description: Computational Vision Group at Yale
       url: "http://www.cs.yale.edu/homes/vision/zucker/"
