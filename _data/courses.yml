@@ -1,5 +1,10 @@
 - term: Spring 2019
   courses:
+    - instructor: "Elisa Celis"
+      instructor_website: "https://theory.epfl.ch/celis/HOME.html"
+      location: "WLH 203"
+      title: "Data Science Ethics"
+      time: "TTh 1-2:15"
     - instructor: Smita Krishnaswamy
       instructor_website: https://www.krishnaswamylab.org/
       location: "DL 220"
@@ -40,6 +45,11 @@
       location: "HLH17 115"
       title: "CPSC 529 Introduction to Human-Computer Interaction"
       time: "MW 2:30-3:45"
+    - instructor: Nisheeth Vishnoi
+      instructor_website: http://www.cs.yale.edu/homes/vishnoi/Home.html
+      location: "AKW 300"
+      title: "CPSC 645 Topics in Theoretical Machine Learning"
+      time: "M 1:30-3:20"
     - instructor: Steven Zucker
       instructor_website: https://seas.yale.edu/faculty-research/faculty-directory/steven-zucker
       location: "AKW 000"
