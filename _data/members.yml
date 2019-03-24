@@ -4,6 +4,11 @@ faculty:
       photo: /images/dana_angluin.jpg
       email: dana.angluin@yale.edu
       title : Professor
+    - name: Elisa Celis
+      url: https://theory.epfl.ch/celis/HOME.html
+      photo: /images/elisa_celis.png
+      email: ecelis21@gmail.com
+      title: Assistant Professor
 
     - name : Ronald Coifman
       url: http://cpsc.yale.edu/people/ronald-coifman 
@@ -71,6 +76,12 @@ faculty:
       email: marynel.vazquez@yale.edu
       title : Assistant Professor
       photo: /images/vazquez.jpg
+
+    - name: Nisheeth Vishnoi
+      url: http://www.cs.yale.edu/homes/vishnoi/Home.html
+      email: nisheeth.vishnoi@gmail.com
+      title: Professor
+      photo: /images/nisheeth_vishnoi.jpg
 
     - name : Steven Zucker
       url: http://seas.yale.edu/faculty-research/faculty-directory/steven-zucker

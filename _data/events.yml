@@ -1,3 +1,16 @@
+- term: Upcoming Events
+  events:
+    - date: "Apr. 5 @8:00am"
+      location: "Yale on York"
+      type: "The 1st Yale Workshop on AI, Ethics, and Society"
+      presenter: "multiple presenters"
+      event_website: "https://aiethicsyale.wordpress.com/1stworkshop/"
+    - date: "Apr. 9 @4:00pm"
+      location: "AKW 200"
+      type: "Self-Supervised Natural Language Processing"
+      presenter: "William Wang"
+      website: "https://www.cs.ucsb.edu/~william/"
+      event_website: "https://cpsc.yale.edu/event/cs-colloquium-william-wang"
 - term: Spring 2019 Talks
   events:
     - date: "Feb. 5 @10:30am"
