@@ -83,6 +83,13 @@ faculty:
       title: Professor
       photo: /images/nisheeth_vishnoi.jpg
 
+    - name: Andre Wibisono
+      url: https://www.cc.gatech.edu/~awibisono3/
+      email: andre.wibisono@yale.edu
+      title : Assistant Professor
+      photo: /images/wibisono.jpg
+
+
     - name : Steven Zucker
       url: http://seas.yale.edu/faculty-research/faculty-directory/steven-zucker
       email: steven.zucker@yale.edu
